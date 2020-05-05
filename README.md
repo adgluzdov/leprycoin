@@ -1,2 +1,2 @@
-# leprycoin.io
-For Leprycoin App
+# leprycoin
+For leprycoin app
