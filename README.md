@@ -1,2 +1,2 @@
 # leprycoin.io
-For Privacy Policy and Terms & Conditions
+For Leprycoin App
